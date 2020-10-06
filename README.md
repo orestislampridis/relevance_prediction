@@ -6,4 +6,6 @@ The particular task is focused on predicting the quality results of a query at t
 
 We utilize Apache Spark with the Scala programming language, in order to parallelize the work and thus make it run more efficiently.
 
+A PDF which describes the problem, our methodology and our results is also included.
+
 Joint work with [Arampatzis Georgios](https://github.com/alfagama)
